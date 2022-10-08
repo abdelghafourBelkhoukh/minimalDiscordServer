@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5bf57ef-b14f-41b6-95ed-f8609f8babe7" name="Changes" comment="">
+    <list default="true" id="a5bf57ef-b14f-41b6-95ed-f8609f8babe7" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/ChatClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChatServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReadThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WriteThread.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChatClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChatServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ReadThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/WriteThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WriteThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,23 +35,27 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FdVGJYCAemAYO6JchjNNH1x4ZJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Youcode/Desktop/JAVA/SimplonClone&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,8 +64,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664821852898</updated>
-      <workItem from="1664821854229" duration="807000" />
+      <workItem from="1664821854229" duration="6527000" />
+      <workItem from="1664889881115" duration="5650000" />
+      <workItem from="1664967359779" duration="38000" />
+      <workItem from="1665155426100" duration="9920000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1664822869881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664822869881</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,5 +92,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
